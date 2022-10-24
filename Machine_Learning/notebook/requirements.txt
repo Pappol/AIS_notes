@@ -5,3 +5,4 @@ numpy
 scipy
 ipywidgets
 IPython
+scikit-image
