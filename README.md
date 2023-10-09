@@ -1,6 +1,8 @@
 # AIS_notes
 Public notes from Masters in Artificial Intelligence Systems at UniTn
 
+Each section corrisponds to a course and contains the notes taken during the lessons and the exercises done during the course. These are only the public notes, the private ones are not available. The exercises are only published after the deadline of the assignment and being graded as correct.
+
 ## How to run the notebooks
 
 - Requirements
