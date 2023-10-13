@@ -6,3 +6,4 @@ scipy
 ipywidgets
 IPython
 scikit-image
+cv2
